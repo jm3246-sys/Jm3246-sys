@@ -2,6 +2,9 @@ Hi, I'm Jyotirmaya Mohanty
 
 🎯 **Results-Driven HR Professional | Talent Acquisition | Employee Engagement | HR Analytics Enthusiast**
 
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+  
+
 Welcome to my GitHub profile!  
 I’m an HR professional with over **10 years of experience** across **IT, Staffing, FMCG, Manufacturing, and Export-Import** industries.  
 I’m passionate about using **data and technology** to optimize HR operations, improve employee engagement, and drive organizational performance.

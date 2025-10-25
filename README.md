@@ -38,4 +38,7 @@ I’m passionate about using **data and technology** to optimize HR operations, 
 - 📧 [jm3246@gmail.com)  
 - 🌐 [Portfolio / Resume Website (if any)](https://jyotirmaya-mohanty-a32f99p.gamma.site/)
 - 📸 [Instagram – @jstar.123](https://www.instagram.com/jstar.123?utm_source=qr&igsh=N2JpYWYwOWc4bHd2)
+ ## 📊 Project Dashboard Preview
 
+![Dashboard Screenshot 1](./images/dashboard1.png)
+![Dashboard Screenshot 2](./images/dashboard2.png)

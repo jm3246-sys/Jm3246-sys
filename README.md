@@ -47,7 +47,7 @@ I love transforming raw data into interactive dashboards that tell meaningful st
 - **SHRM-CP (Certified Professional) – HR Certification (2023)** – Recognized for mastery in HR principles, talent management, and strategic HR practices.
 - **Great People Manager Award 2024** – Recognized for demonstrating exceptional leadership and fostering a culture of engagement and collaboration.
 - **HR Excellence Award 2023** – Awarded for driving strategic HR transformation and implementing data-driven analytics to improve retention and satisfaction
-- **HR Standout Performer Award 2019** – Honored for outstanding performance in HR operations, talent acquisition, and employee engagement initiatives.
+- **HR Standout Performer Award 2019** – Honoured for outstanding performance in HR operations, talent acquisition, and employee engagement initiatives.
 
 
 ## 📈 Projects & Learning

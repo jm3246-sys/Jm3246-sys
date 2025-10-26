@@ -37,15 +37,18 @@ I love transforming raw data into interactive dashboards that tell meaningful st
 
 - Talent Acquisition | Employee Engagement | HR Operations  
 - HR Analytics | Power BI | HR Metrics & KPI Reporting  
-- Performance Management | Compliance | Workforce Planning  
+- Performance Management | Compliance | Workforce Planning
+  
 
 ## 🏆 Certifications & Achievements
 
-- **Advanced Excel & Power BI Certification 2025** – Microsoft  
-- **HR Analytics for Business Decision Making 2024** – CHRMP
-- **Great People Manager Award 2024** – Recognized for demonstrating exceptional leadership and fostering a culture of engagement and collaboration.  
+- **Advanced Excel & Power BI Certification (2025)** – Microsoft  
+- **HR Analytics for Business Decision Making (2024)** – CHRMP  
+- **SHRM-CP (Certified Professional) – HR Certification (2023)** – Recognized for mastery in HR principles, talent management, and strategic HR practices.
+- **Great People Manager Award 2024** – Recognized for demonstrating exceptional leadership and fostering a culture of engagement and collaboration.
 - **HR Excellence Award 2023** – Awarded for driving strategic HR transformation and implementing data-driven analytics to improve retention and satisfaction
 - **HR Standout Performer Award 2019** – Honored for outstanding performance in HR operations, talent acquisition, and employee engagement initiatives.
+
 
 ## 📈 Projects & Learning
 
@@ -58,7 +61,6 @@ I love transforming raw data into interactive dashboards that tell meaningful st
 
 **HR Analytics Dashboard – Power BI**  
 - 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD
-- 🌐 **Live Dashboard:** https://github.com/jm3246-sys/POWERBI-DASHBOARD/blob/main/SUPERMALL%20SALES%20DASHBOARD.pbix
 - 🧠 **Description:**  
   Interactive HR dashboard visualizing key metrics including **attrition rate, hiring cost, absenteeism ratio, employee satisfaction, and training expenses**.  
   Built with **Power BI**, **Excel**, **DAX measures**, and **Power Query** to support data-driven HR decisions.

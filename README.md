@@ -7,7 +7,10 @@ Hi, I'm Jyotirmaya Mohanty
 
 Welcome to my GitHub profile!  
 I’m an HR professional with over **10 years of experience** across **IT, Staffing, FMCG, Manufacturing, and Export-Import** industries.  
-I’m passionate about using **data and technology** to optimize HR operations, improve employee engagement, and drive organizational performance.
+I’m passionate about using **data and technology** to optimize HR operations, improve employee engagement, and drive organizational performance.Over the years, 
+I’ve developed a deep interest in HR Analytics and Power BI, leveraging data to uncover actionable insights that empower organizations to make smarter workforce decisions. 
+
+I love transforming raw data into interactive dashboards that tell meaningful stories about talent, performance, and engagement which helpful to combine technology, analytics, and human capital to build high-performing, people-first organizations. Whether it’s optimizing HR processes or visualizing data trends, I aim to bridge the gap between HR strategy and data intelligence.
 
 ## 🧭 About Me
 
@@ -22,7 +25,7 @@ I’m passionate about using **data and technology** to optimize HR operations, 
 | Category | Tools |
 |-----------|-------|
 | HR Systems | HRMS, ERP, HRIS |
-| Analytics | Excel, Power BI |
+| Analytics | Advance Excel, Power BI |
 | Collaboration | MS Teams, SharePoint, Google Workspace |
 | ATS Platforms | Zoho Recruit, Workday |
 

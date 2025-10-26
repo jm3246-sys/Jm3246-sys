@@ -57,7 +57,6 @@ I love transforming raw data into interactive dashboards that tell meaningful st
 - 📘 **Ongoing Learning** – Enhancing data visualization and storytelling with HR data
 - ## 📊 Featured Power BI Project  
 
-[![HR Analytics Dashboard Preview](https://github.com/jm3246-sys/POWERBI/blob/main/assets/hr_dashboard.png)](https://github.com/jm3246-sys/POWERBI)
 
 **HR Analytics Dashboard – Power BI**  
 - 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD

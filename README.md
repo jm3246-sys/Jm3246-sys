@@ -58,7 +58,7 @@ I love transforming raw data into interactive dashboards that tell meaningful st
 
 **HR Analytics Dashboard – Power BI**  
 - 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD
-- 🌐 **Live Dashboard:**  
+- 🌐 **Live Dashboard:** https://github.com/jm3246-sys/POWERBI-DASHBOARD/blob/main/SUPERMALL%20SALES%20DASHBOARD.pbix
 - 🧠 **Description:**  
   Interactive HR dashboard visualizing key metrics including **attrition rate, hiring cost, absenteeism ratio, employee satisfaction, and training expenses**.  
   Built with **Power BI**, **Excel**, **DAX measures**, and **Power Query** to support data-driven HR decisions.

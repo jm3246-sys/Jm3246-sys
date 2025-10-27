@@ -71,7 +71,7 @@ I love transforming raw data into interactive dashboards that tell meaningful st
 - 📧 [jm3246@gmail.com)  
 - 🌐 [Portfolio / Resume Website (if any)](https://jyotirmaya-mohanty-a32f99p.gamma.site/)
 - 📸 [Instagram – @jstar.123](https://www.instagram.com/jstar.123?utm_source=qr&igsh=N2JpYWYwOWc4bHd2)
-- 💼 [https://stackoverflow.com/users/1234567/rajkishore-mohanty](https://stackoverflow.com/users/31757460/user31757460?tab=profile)
+- 💼 https://stackoverflow.com/users/31757460/user31757460?tab=profile
 
 
 

@@ -55,29 +55,76 @@ My goal is to combine technology, analytics, and human capital to build high-per
 - Compensation & Benefits Design
 - HR Compliance & Policy Administration
 
-## 🏆 Certifications & Achievements
 
-- **Advanced Excel & Power BI Certification (2025)** – Microsoft  
-- **HR Analytics for Business Decision Making (2024)** – CHRMP  
-- **SHRM-CP (Certified Professional) – HR Certification (2023)** – Recognized for mastery in HR principles, talent management, and strategic HR practices.
-- **Great People Manager Award 2024** – Recognized for demonstrating exceptional leadership and fostering a culture of engagement and collaboration.
-- **HR Excellence Award 2023** – Awarded for driving strategic HR transformation and implementing data-driven analytics to improve retention and satisfaction
-- **HR Standout Performer Award 2019** – Honoured for outstanding performance in HR operations, talent acquisition, and employee engagement initiatives.
+## 🏆 Certifications Overview
+
+| Certification | Issued By | Key Skills / Focus Areas |
+|---------------|------------|---------------------------|
+| SHRM-CP (Certified Professional) – HR Certification (2023) | SHRM | Global HR Standards, Strategic HR, Leadership, Compliance |
+| HR Analytics for Business Decision Making (2024) | CHRMP | HR Data Analytics, Predictive Modeling, Business Insights |
+| SAP ERP Essential Training | LinkedIn | ERP Systems, SAP FI/CO/MM/SD, Business Process Optimization |
+| SAP SuccessFactors: Performance & Goals Mgmt | LinkedIn | SAP SuccessFactors, Performance Management, Goal Alignment |
+| SAP Human Capital Management (HCM) | LinkedIn | SAP HCM, Payroll & Time Mgmt, Recruitment, Analytics & Reporting |
+| Oracle Fusion Cloud HCM Process Essentials – Rel 1 | Oracle | Oracle HCM Cloud, Cloud Transformation, Workforce Automation |
+| Copilot in Excel: AI-Powered Financial Planning & Analysis | LinkedIn | Artificial Intelligence (AI), Microsoft Copilot, Financial Analysis, Excel Dashboards |
+| Tata – GenAI Powered Data Analytics Job Simulation | Forage | Data Analytics, HR Analytics, AI-Driven Decision Making |
+| Generative AI, Recruiting, and Talent Acquisition | LinkedIn | Artificial Intelligence (AI), Generative AI for Recruiting, ATS, Ethical AI |
+| HR Analytics | upGrad | Data-Driven Decision Making, HR Metrics, Workforce Analytics |
+| Financial Analyst Virtual Experience | New York Jobs CEO Council | Financial Modelling, Data Analysis, Business Decision-Making, Excel Metrics |
+| Deloitte Australia – Data Analytics Job Simulation | Deloitte Australia | Tableau, Excel Analytics, Forensic Data Techniques |
+
+
+## 🏅 Awards & Achievements
+
+
+ | Award / Recognition | Year | Description |
+|----------------------|------|--------------|
+| **Great People Manager Award** | 2024 | Recognized for exceptional leadership and for fostering a high-performance culture built on collaboration, engagement, and employee trust. |
+| **HR Excellence Award** | 2023 | Honored for driving strategic HR transformation through data-driven analytics that enhanced retention, satisfaction, and workforce planning. |
+| **HR Standout Performer Award** | 2019 | Acknowledged for outstanding results in HR operations, talent acquisition, and innovative employee engagement initiatives. |
+| **Mentoring Champion** | 2018 | Recognized for exceptional mentorship, career guidance, and leadership support during key organizational transitions. |
+| **Certificate of Appreciation** | 2018 | Awarded for exemplary contributions in HR engagement, grievance management, and maintaining a positive workplace culture. |
+
 
 
 ## 📈 Projects & Learning
 
-- 📊 **HR Dashboard in Power BI** – Visualizing recruitment metrics, attrition rates, and performance trends  
-- 🧩 **Employee Engagement Analysis** – Identifying engagement drivers and retention patterns  
-- 📘 **Ongoing Learning** – Enhancing data visualization and storytelling with HR data
-- ## 📊 Featured Power BI Project  
+| Project / Learning Area                | Description                                                                                                                |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **📊 HR Dashboard in Power BI**        | Designed an interactive dashboard visualizing recruitment, attrition, and performance insights for strategic HR decisions. |
+| **🧩 Employee Engagement Analysis**    | Conducted deep-dive analysis to identify engagement drivers and retention patterns.                                        |
+| **📘 Ongoing Learning**                | Continuously enhancing storytelling with HR data, visualization, and analytics-driven HR transformation.                   |
+| **🤖 Generative AI for HR Automation** | Exploring AI tools and MLOps to integrate predictive analytics and automate HR workflows.                                  |
 
 
 **HR Analytics Dashboard – Power BI**  
 - 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD
 - 📊 Power BI Dashboard Collection
-- 🔗 [View All Dashboards](https://github.com/jm3246-sys/POWERBI-DASHBOARD)  
-- 🧠 **Description:** A collection of interactive Power BI dashboards analyzing **HR, sales, and business performance metrics**. Includes dashboards for **Ecommerce performance, company-wide analytics, and total     sales insights**. Designed to provide actionable insights for **data-driven decision-making** and performance optimization.
+- 🔗 [View All Dashboards](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
+  
+A comprehensive suite of interactive Power BI dashboards analyzing HR, Sales, and Business Performance metrics.
+The dashboards help transform raw data into strategic insights that drive smarter decision-making, improve retention, and optimize performance across teams.
+
+📈 Key Highlights
+
+HR Analytics Dashboard: Visualizes recruitment funnel, attrition rates, workforce demographics, and performance trends.
+
+E-commerce & Sales Dashboards: Analyzes revenue trends, customer behavior, and product-level performance metrics.
+
+Data Storytelling: Each dashboard integrates rich visuals, slicers, and filters for executive-level decision insights.
+
+Scalable Design: Built for repeatable use across business functions with automated data refresh and Power Query transformations.
+
+Strategic Focus: Enables leaders to connect HR, sales, and operations data for a unified view of organizational health.
+
+💡 Tech Stack & Skills Used
+Category	Tools / Techniques
+Visualization & BI	Power BI Desktop, DAX, Power Query
+Data Preparation	Excel, CSV, SQL-based data import
+Analytics & Modeling	KPI Design, Workforce Analysis, Data Relationships
+Storytelling & Insights	Data-Driven Decision Making, HR Reporting, Executive Dashboards
+
+
 
 
 ## 📫 Let’s Connect
@@ -87,8 +134,5 @@ My goal is to combine technology, analytics, and human capital to build high-per
 - 🌐 [Portfolio / Resume Website (if any)](https://jyotirmaya-mohanty-a32f99p.gamma.site/)
 - 📸 [Instagram – @jstar.123](https://www.instagram.com/jstar.123?utm_source=qr&igsh=N2JpYWYwOWc4bHd2)
 - 💼 https://stackoverflow.com/users/31757460/user31757460?tab=profile
-
-
-
 
 

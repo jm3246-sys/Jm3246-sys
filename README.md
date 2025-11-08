@@ -2,43 +2,58 @@ Hi, I'm Jyotirmaya Mohanty
 > *Empowering HR with data, insights, and innovation.*  
 
 
-🎯 **Results-Driven HR Professional | Talent Acquisition | Employee Engagement | HR Analytics Enthusiast**
+🎯 **SHRM-Certified Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
+
+
+Welcome to my GitHub profile!  
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
   
 
-Welcome to my GitHub profile!  
-I’m an HR professional with over **10 years of experience** across **IT, Staffing, FMCG, Manufacturing, and Export-Import** industries.  
-I’m passionate about using data and technology to optimize HR operations, enhance employee engagement, and drive organizational performance. Over the years, 
-I’ve developed a deep interest in HR Analytics and Power BI, leveraging data to uncover actionable insights that empower organizations to make smarter workforce decisions. 
 
-I love transforming raw data into interactive dashboards that tell meaningful stories about talent, performance, and engagement. My goal is to combine technology, analytics, and human capital to build high-performing, people-first organizations. Whether it’s optimizing HR processes or visualizing data trends, I aim to bridge the gap between HR strategy and data intelligence.
-
----
 ## 🧭 About Me
+
+I’m an HR professional with over **10 years of experience** across **IT, Staffing, FMCG, Manufacturing, and Export-Import** industries. 
+I combine **strategic HR leadership** with a passion for **data analytics, automation, and AI-driven transformation** — helping organizations make smarter, people-centered decisions.  
+
+I’m passionate about using data and technology to optimize HR operations, enhance employee engagement, and drive organizational performance.
+With hands-on experience in **HR Technology Implementation (SAP, Oracle Fusion, SuccessFactors)** and **Workforce Analytics**, I focus on aligning business outcomes with employee success.  
+
+My goal is to combine technology, analytics, and human capital to build high-performing, people-first organizations. Whether it’s optimizing HR processes or visualizing data trends, I aim to bridge the gap between HR strategy and data intelligence. Over the years, I’ve developed a deep interest in HR Analytics and Power BI, leveraging data to uncover actionable insights that empower organizations to make smarter workforce decisions. 
+
+
+> “Human potential meets data intelligence — that’s the future of work I strive to build.”
+
+
 ---
 
-- 💼 Experienced in **Talent Acquisition**, **Employee Engagement**, **Performance Management**, and **HR Operations**  
-- ⚙️ Skilled in **HRMS**, **ERP**, and **HRIS** tools  
-- 📊 Currently Focusing on **Power BI** and HR analytics dashboards.  
-- 🌱 Constantly exploring ways to combine HR expertise with data insights.  
-- 🤝 I believe in people-first strategies backed by smart analytics  
+---
 
-## 🧰 Tech & Tools
+### 💻 Software & Technical Skills
+| Category | Tools / Platforms |
+|-----------|------------------|
+| **HR Software** | SAP HCM, SAP SuccessFactors, Oracle Fusion HCM |
+| **Analytics Tools** | Excel Dashboards, Tableau, Forage Simulations |
+| **AI & Automation** | Microsoft Copilot, Google Vertex AI, Generative AI for HR |
+| **ERP Systems** | SAP ERP (FI, CO, MM, SD), Oracle Cloud |
+| **Data Skills** | Data Visualization, Predictive Analytics, HR Metrics Dashboards |
+| **HR Systems** | HRMS, ERP, HRIS |
+| **Analytics** | Advance Excel, Power BI |
+| **Collaboration** | MS Teams, SharePoint, Google Workspace |
+| **ATS Platforms** | Zoho Recruit, Workday 
 
-| Category | Tools |
-|-----------|-------|
-| HR Systems | HRMS, ERP, HRIS |
-| Analytics | Advance Excel, Power BI |
-| Collaboration | MS Teams, SharePoint, Google Workspace |
-| ATS Platforms | Zoho Recruit, Workday |
+## 💼 Core Skill
 
-## 💼 Core Skills  
-
-- Talent Acquisition | Employee Engagement | HR Operations  
-- HR Analytics | Power BI | HR Metrics & KPI Reporting  
-- Performance Management | Compliance | Workforce Planning
-  
+- Talent Acquisition & Employer Branding  
+- HR Strategy & Business Partnering (HRBP)  
+- Employee Engagement & Retention  
+- Workforce Planning & HR Analytics  
+- Performance Management & Total Rewards  
+- Learning & Development Programs  
+- Change Management & Organizational Development  
+- Generative AI Applications in HR
+- Compensation & Benefits Design
+- HR Compliance & Policy Administration
 
 ## 🏆 Certifications & Achievements
 

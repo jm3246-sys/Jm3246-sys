@@ -1,9 +1,20 @@
-Hi, I'm Jyotirmaya Mohanty 
+Hi, I'm Jyotirmaya Mohanty
 > *Empowering HR with data, insights, and innovation.*  
 
 
 🎯 **SHRM-Certified Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
 
+---
+
+## 🚀 Key Skills & Achievements
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Advanced-blue?style=for-the-badge&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?style=for-the-badge&logo=tableau&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Intermediate-lightgrey?style=for-the-badge)
+
+---
 
 Welcome to my GitHub profile!  
 
@@ -28,8 +39,35 @@ My goal is to combine technology, analytics, and human capital to build high-per
 ---
 
 ---
-
 ### 💻 Software & Technical Skills
+
+![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap) 
+![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
+![Oracle Fusion HCM](https://img.shields.io/badge/Oracle%20Fusion%20HCM-%23F80000?style=for-the-badge&logo=oracle) 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
+![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
+![Forage](https://img.shields.io/badge/Forage-%23FF6F61?style=for-the-badge) 
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-%230072C6?style=for-the-badge&logo=microsoft) 
+![Google Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-%23F4B400?style=for-the-badge&logo=googlecloud) 
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%235A31F4?style=for-the-badge) 
+![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000?style=for-the-badge&logo=oracle) 
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%2300BFFF?style=for-the-badge) 
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-%23FF4500?style=for-the-badge) 
+![HR Metrics Dashboards](https://img.shields.io/badge/HR%20Metrics-%239966FF?style=for-the-badge) 
+![HRMS](https://img.shields.io/badge/HRMS-%230072C6?style=for-the-badge) 
+![ERP](https://img.shields.io/badge/ERP-%23007A33?style=for-the-badge) 
+![HRIS](https://img.shields.io/badge/HRIS-%23FF69B4?style=for-the-badge) 
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 
+![MS Teams](https://img.shields.io/badge/MS%20Teams-%236161FF?style=for-the-badge&logo=microsoft-teams) 
+![SharePoint](https://img.shields.io/badge/SharePoint-%230076B7?style=for-the-badge&logo=sharepoint) 
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%23F4B400?style=for-the-badge&logo=google) 
+![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-%23FF8000?style=for-the-badge&logo=zoho) 
+![Workday](https://img.shields.io/badge/Workday-%230099CC?style=for-the-badge&logo=workday)  
+
+
+
 | Category | Tools / Platforms |
 |-----------|------------------|
 | **HR Software** | SAP HCM, SAP SuccessFactors, Oracle Fusion HCM |
@@ -56,7 +94,25 @@ My goal is to combine technology, analytics, and human capital to build high-per
 - HR Compliance & Policy Administration
 
 
-## 🏆 Certifications Overview
+## 🏆 Certifications Overview  
+
+![SHRM-CP](https://img.shields.io/badge/SHRM-CP-%230072C6?style=for-the-badge) 
+![HR Analytics](https://img.shields.io/badge/HR%20Analytics-%230077B5?style=for-the-badge) 
+![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
+![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
+![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap)  
+
+![Oracle HCM](https://img.shields.io/badge/Oracle%20HCM-%23F80000?style=for-the-badge&logo=oracle) 
+![Copilot in Excel](https://img.shields.io/badge/Microsoft%20Copilot-%230072C6?style=for-the-badge&logo=microsoft) 
+![Forage](https://img.shields.io/badge/Forage-%23FF6F61?style=for-the-badge) 
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%235A31F4?style=for-the-badge) 
+![HR Analytics upGrad](https://img.shields.io/badge/HR%20Analytics-%230077B5?style=for-the-badge)  
+
+![Financial Analyst Virtual Experience](https://img.shields.io/badge/Financial%20Analyst-%2300BFFF?style=for-the-badge) 
+![Deloitte Job Simulation](https://img.shields.io/badge/Deloitte%20Analytics-%230077B5?style=for-the-badge) 
+![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
+![Excel Analytics](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel)  
+
 
 | Certification | Issued By | Key Skills / Focus Areas |
 |---------------|------------|---------------------------|
@@ -102,29 +158,29 @@ My goal is to combine technology, analytics, and human capital to build high-per
 - 📊 Power BI Dashboard Collection
 - 🔗 [View All Dashboards](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
   
-A comprehensive suite of interactive Power BI dashboards analyzing HR, Sales, and Business Performance metrics.
-The dashboards help transform raw data into strategic insights that drive smarter decision-making, improve retention, and optimize performance across teams.
 
-📈 Key Highlights
+A suite of interactive dashboards analyzing HR, Sales, and Business Performance metrics, transforming raw data into actionable insights for smarter decision-making, improved retention, and optimized team performance.
 
-HR Analytics Dashboard: Visualizes recruitment funnel, attrition rates, workforce demographics, and performance trends.
+Key Highlights:
 
-E-commerce & Sales Dashboards: Analyzes revenue trends, customer behavior, and product-level performance metrics.
+HR Analytics: Recruitment funnel, attrition, workforce demographics, and performance trends.
 
-Data Storytelling: Each dashboard integrates rich visuals, slicers, and filters for executive-level decision insights.
+Sales & E-commerce: Revenue trends, customer behavior, and product-level insights.
 
-Scalable Design: Built for repeatable use across business functions with automated data refresh and Power Query transformations.
+Data Storytelling: Executive-ready visuals with filters, slicers, and KPIs.
 
-Strategic Focus: Enables leaders to connect HR, sales, and operations data for a unified view of organizational health.
+Scalable & Automated: Repeatable dashboards with Power Query and automated refresh.
 
-💡 Tech Stack & Skills Used
-Category	Tools / Techniques
-Visualization & BI	Power BI Desktop, DAX, Power Query
-Data Preparation	Excel, CSV, SQL-based data import
-Analytics & Modeling	KPI Design, Workforce Analysis, Data Relationships
-Storytelling & Insights	Data-Driven Decision Making, HR Reporting, Executive Dashboards
+Strategic Insights: Connects HR, Sales, and Operations for a unified organizational view.
 
+Tech Stack: Power BI Desktop, DAX, Power Query, Excel, SQL; Skills: KPI design, workforce analysis, HR reporting, data-driven insights.
 
+**Tech Stack & Skills:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 
+![DAX](https://img.shields.io/badge/DAX-%230077B5?style=for-the-badge) 
+![Power Query](https://img.shields.io/badge/Power%20Query-%230072C6?style=for-the-badge) 
+![Excel](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
+![SQL](https://img.shields.io/badge/SQL-%230077B5?style=for-the-badge)
 
 
 ## 📫 Let’s Connect

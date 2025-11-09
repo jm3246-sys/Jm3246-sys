@@ -142,8 +142,7 @@ My goal is to combine technology, analytics, and human capital to build high-per
 | **Certificate of Appreciation** | 2018 | Awarded for exemplary contributions in HR engagement, grievance management, and maintaining a positive workplace culture. |
 
 
-
-## 📈 Projects & Learning
+## 📈On Going Projects
 
 | Project / Learning Area                | Description                                                                                                                |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |

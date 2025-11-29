@@ -158,6 +158,7 @@ My goal is to combine technology, analytics, and human capital to build high-per
 - 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD
 - 📊 Power BI Dashboard Collection
 - 🔗 [View All Dashboards](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
+- 🔗 https://github.com/jm3246-sys/Retail-Dasboard
   
 
 A suite of interactive dashboards analyzing HR, Sales, and Business Performance metrics, transforming raw data into actionable insights for smarter decision-making, improved retention, and optimized team performance.

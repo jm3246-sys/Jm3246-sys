@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
 ## 🧭 About Me
 
-I’m an HR professional with over **10 years of experience** across **IT, Staffing, FMCG, Manufacturing, and Export-Import** industries. 
+I’m an HR professional with over **10 years of experience** across **IT, BPO, Staffing, FMCG, Manufacturing, and Export-Import** industries. 
 I combine **strategic HR leadership** with a passion for **data analytics, automation, and AI-driven transformation** — helping organizations make smarter, people-centered decisions.  
 
 I’m passionate about using data and technology to optimize HR operations, enhance employee engagement, and drive organizational performance.
@@ -73,7 +73,7 @@ My goal is to combine technology, analytics, and human capital to build high-per
 | **HR Software** | SAP HCM, SAP SuccessFactors, Oracle Fusion HCM |
 | **Analytics Tools** | Excel Dashboards, Tableau, Forage Simulations |
 | **AI & Automation** | Microsoft Copilot, Google Vertex AI, Generative AI for HR |
-| **ERP Systems** | SAP ERP (FI, CO, MM, SD), Oracle Cloud |
+| **ERP Systems** | SAP ERP , Oracle Cloud |
 | **Data Skills** | Data Visualization, Predictive Analytics, HR Metrics Dashboards |
 | **HR Systems** | HRMS, ERP, HRIS |
 | **Analytics** | Advance Excel, Power BI |
@@ -127,6 +127,8 @@ My goal is to combine technology, analytics, and human capital to build high-per
 | Generative AI, Recruiting, and Talent Acquisition | LinkedIn | Artificial Intelligence (AI), Generative AI for Recruiting, ATS, Ethical AI |
 | HR Analytics | upGrad | Data-Driven Decision Making, HR Metrics, Workforce Analytics |
 | Financial Analyst Virtual Experience | New York Jobs CEO Council | Financial Modelling, Data Analysis, Business Decision-Making, Excel Metrics |
+| Tata Data Visualisation | TATA Group | Dashboard Development, Data Analysis, Power BI, Tableau |
+| Bloomberg Client Engagement Job Simulation | Bloomberg | Client Handling, Client engagement, Business Decision-Making |
 | Deloitte Australia – Data Analytics Job Simulation | Deloitte Australia | Tableau, Excel Analytics, Forensic Data Techniques |
 
 

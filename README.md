@@ -12,7 +12,7 @@ Hi, I'm Jyotirmaya Mohanty
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-blue?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?style=for-the-badge&logo=tableau&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-Intermediate-lightgrey?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Advanced-lightgrey?style=for-the-badge)
 
 ---
 

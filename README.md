@@ -96,7 +96,7 @@ My goal is to combine technology, analytics, and human capital to build high-per
 
 ## 🏆 Certifications Overview  
 
-![SHRM-CP](https://img.shields.io/badge/SHRM-CP-%230072C6?style=for-the-badge) 
+
 ![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
 ![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
 ![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap)  
@@ -115,7 +115,6 @@ My goal is to combine technology, analytics, and human capital to build high-per
 
 | Certification | Issued By | Key Skills / Focus Areas |
 |---------------|------------|---------------------------|
-| SHRM-CP (Certified Professional) – HR Certification (2023) | SHRM | Global HR Standards, Strategic HR, Leadership, Compliance |
 | HR Analytics for Business Decision Making (2024) | CHRMP | HR Data Analytics, Predictive Modeling, Business Insights |
 | SAP ERP Essential Training | LinkedIn | ERP Systems, SAP FI/CO/MM/SD, Business Process Optimization |
 | SAP SuccessFactors: Performance & Goals Mgmt | LinkedIn | SAP SuccessFactors, Performance Management, Goal Alignment |

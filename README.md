@@ -97,7 +97,6 @@ My goal is to combine technology, analytics, and human capital to build high-per
 ## 🏆 Certifications Overview  
 
 ![SHRM-CP](https://img.shields.io/badge/SHRM-CP-%230072C6?style=for-the-badge) 
-![HR Analytics](https://img.shields.io/badge/HR%20Analytics-%230077B5?style=for-the-badge) 
 ![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
 ![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
 ![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap)  
@@ -189,8 +188,8 @@ Tech Stack: Power BI Desktop, DAX, Power Query, Excel, SQL; Skills: KPI design, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jyotirmaya-mohanty-0b636aa0)  
 - 📧 [jm3246@gmail.com)  
-- 🌐 [Portfolio / Resume Website (if any)](https://jyotirmaya-mohanty-a32f99p.gamma.site/)
+- 🌐 [Portfolio / Resume Website (if any)](https://jyotirmaya-mohanty-041upf4.gamma.site/)
 - 📸 [Instagram – @jstar.123](https://www.instagram.com/jstar.123?utm_source=qr&igsh=N2JpYWYwOWc4bHd2)
-- 💼 https://stackoverflow.com/users/31757460/user31757460?tab=profile
+- 💼 [https://stackoverflow.com/users/31757460/user31757460?tab=profile](https://stackoverflow.com/users/31790997/jyotirmaya-mohanty?tab=profile)
 
 

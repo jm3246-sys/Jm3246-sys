@@ -115,7 +115,6 @@ My goal is to combine technology, analytics, and human capital to build high-per
 
 | Certification | Issued By | Key Skills / Focus Areas |
 |---------------|------------|---------------------------|
-| HR Analytics for Business Decision Making (2024) | CHRMP | HR Data Analytics, Predictive Modeling, Business Insights |
 | SAP ERP Essential Training | LinkedIn | ERP Systems, SAP FI/CO/MM/SD, Business Process Optimization |
 | SAP SuccessFactors: Performance & Goals Mgmt | LinkedIn | SAP SuccessFactors, Performance Management, Goal Alignment |
 | SAP Human Capital Management (HCM) | LinkedIn | SAP HCM, Payroll & Time Mgmt, Recruitment, Analytics & Reporting |

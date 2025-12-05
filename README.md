@@ -2,7 +2,7 @@ Hi, I'm Jyotirmaya Mohanty
 > *Empowering HR with data, insights, and innovation.*  
 
 
-🎯 **SHRM-Certified Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
+🎯 **A Certified Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
 
 ---
 

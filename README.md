@@ -128,9 +128,10 @@ My goal is to combine technology, analytics, and human capital to build high-per
 | Bloomberg Client Engagement Job Simulation | Bloomberg | Client Handling, Client engagement, Business Decision-Making |
 | Deloitte Australia – Data Analytics Job Simulation | Deloitte Australia | Tableau, Excel Analytics, Forensic Data Techniques |
 
+
 ## 🏆 Google Cloud Skills Boost
 
-[![Google Skills Profile](https://img.shields.io/badge/Google%20Skills-Profile-blueviolet?logo=googlecloud&logoColor=white&style=for-the-badge)](YOUR_PUBLIC_PROFILE_URL)
+[![Google Skills Profile](https://img.shields.io/badge/Google%20Skills-Profile-blueviolet?logo=googlecloud&logoColor=white&style=for-the-badge)](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22)
 
 <details>
 <summary>🌟 Key Badges (99+ Earned)</summary>
@@ -145,8 +146,9 @@ My goal is to combine technology, analytics, and human capital to build high-per
 **Workspace & Productivity**  
 [![Change Management Workspace](https://img.shields.io/badge/Change%20Mgmt%20Workspace-green?style=for-the-badge&logo=googleworkspace&logoColor=white)](YOUR_BADGE_URL_4)  
 
-[View Full Profile & All Badges](YOUR_PUBLIC_PROFILE_URL)
+[View Full Profile & All Badges](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22)
 </details>
+
 
 
 

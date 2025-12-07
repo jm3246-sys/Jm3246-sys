@@ -128,6 +128,27 @@ My goal is to combine technology, analytics, and human capital to build high-per
 | Bloomberg Client Engagement Job Simulation | Bloomberg | Client Handling, Client engagement, Business Decision-Making |
 | Deloitte Australia – Data Analytics Job Simulation | Deloitte Australia | Tableau, Excel Analytics, Forensic Data Techniques |
 
+## 🏆 Google Cloud Skills Boost
+
+[![Google Skills Profile](https://img.shields.io/badge/Google%20Skills-Profile-blueviolet?logo=googlecloud&logoColor=white&style=for-the-badge)](YOUR_PUBLIC_PROFILE_URL)
+
+<details>
+<summary>🌟 Key Badges (99+ Earned)</summary>
+
+**Generative AI & ML**  
+[![Intro to GenAI](https://img.shields.io/badge/Intro%20to%20GenAI-orange?style=for-the-badge&logo=googlecloud&logoColor=white)](YOUR_BADGE_URL_1)  
+[![MLOps Fundamentals](https://img.shields.io/badge/MLOps%20Fundamentals-teal?style=for-the-badge&logo=googlecloud&logoColor=white)](YOUR_BADGE_URL_2)  
+
+**Google Cloud / Vertex AI**  
+[![Vertex AI Agent Builder](https://img.shields.io/badge/Vertex%20AI-purple?style=for-the-badge&logo=googlecloud&logoColor=white)](YOUR_BADGE_URL_3)  
+
+**Workspace & Productivity**  
+[![Change Management Workspace](https://img.shields.io/badge/Change%20Mgmt%20Workspace-green?style=for-the-badge&logo=googleworkspace&logoColor=white)](YOUR_BADGE_URL_4)  
+
+[View Full Profile & All Badges](YOUR_PUBLIC_PROFILE_URL)
+</details>
+
+
 
 ## 🏅 Awards & Achievements
 

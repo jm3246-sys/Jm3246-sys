@@ -1,4 +1,4 @@
-Hi, I'm Jyotirmaya Mohanty
+## Hi, I'm **Jyotirmaya Mohanty**
 > *Empowering HR with data, insights, and innovation.*  
 
 
@@ -177,25 +177,18 @@ My goal is to combine technology, analytics, and human capital to build high-per
 **HR Analytics Dashboard – Power BI**  
 - 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD
 - 📊 Power BI Dashboard Collection
-- 🔗 [View All Dashboards](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
-- 🔗 https://github.com/jm3246-sys/Retail-Dasboard
+- 🔗 [View All Dashboards](https://github.com/jm3246-sys?tab=repositories)
   
 
 A suite of interactive dashboards analyzing HR, Sales, and Business Performance metrics, transforming raw data into actionable insights for smarter decision-making, improved retention, and optimized team performance.
 
 Key Highlights:
 
-HR Analytics: Recruitment funnel, attrition, workforce demographics, and performance trends.
+🔸 HR Analytics: Recruitment funnel, attrition, workforce demographics, and performance trends.
 
-Sales & E-commerce: Revenue trends, customer behavior, and product-level insights.
+🔸 Sales & E-commerce: Revenue trends, customer behavior, and product-level insights.
 
-Data Storytelling: Executive-ready visuals with filters, slicers, and KPIs.
-
-Scalable & Automated: Repeatable dashboards with Power Query and automated refresh.
-
-Strategic Insights: Connects HR, Sales, and Operations for a unified organizational view.
-
-Tech Stack: Power BI Desktop, DAX, Power Query, Excel, SQL; Skills: KPI design, workforce analysis, HR reporting, data-driven insights.
+🔸 Data Storytelling: Executive-ready visuals with filters, slicers, and KPIs.
 
 **Tech Stack & Skills:**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 

@@ -202,7 +202,7 @@ Key Highlights:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jyotirmaya-mohanty-0b636aa0)  
 - 📧 [jm3246@gmail.com)  
-- 🌐 [Portfolio / Resume Website (if any)](https://jyotirmaya-mohanty-041upf4.gamma.site/)
+- 🌐 [Portfolio / Resume Website ](https://jyotirmaya-mohanty-041upf4.gamma.site/)
 - 📸 [Instagram – @jstar.123](https://www.instagram.com/jstar.123?utm_source=qr&igsh=N2JpYWYwOWc4bHd2)
 - 💼 [https://stackoverflow.com/users/31757460/user31757460?tab=profile](https://stackoverflow.com/users/31790997/jyotirmaya-mohanty?tab=profile)
 

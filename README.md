@@ -115,43 +115,75 @@ Business analytics presentation projects combining data processing, visualizatio
 
 ## 🏆 Certifications Overview  
 
+I continuously develop my expertise in Human Resources, People Analytics, HR Technology, Business Intelligence, and Generative AI through professional certificates, specializations, and practical learning.
 
-![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
-![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
-![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap)  
-
-![Oracle HCM](https://img.shields.io/badge/Oracle%20HCM-%23F80000?style=for-the-badge&logo=oracle) 
-![Copilot in Excel](https://img.shields.io/badge/Microsoft%20Copilot-%230072C6?style=for-the-badge&logo=microsoft) 
-![Forage](https://img.shields.io/badge/Forage-%23FF6F61?style=for-the-badge) 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-%235A31F4?style=for-the-badge) 
+### 🧑‍💼 Human Resources & People Analytics
+[![HR Management](https://img.shields.io/badge/HR-Management-0A66C2?style=for-the-badge&logo=people&logoColor=white)](https://coursera.org/share/f8e1ebfdba8887352e5885f7044b2f5d) [![People Analytics](https://img.shields.io/badge/People-Analytics-2E8B57?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://coursera.org/share/c5df1fc58e95ad9aa1d793efa47b0113) [![Workforce Planning](https://img.shields.io/badge/Workforce-Planning-6A5ACD?style=for-the-badge&logo=target&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/DNBNM2BGX30P)
 ![HR Analytics upGrad](https://img.shields.io/badge/HR%20Analytics-%230077B5?style=for-the-badge)  
 
-![Financial Analyst Virtual Experience](https://img.shields.io/badge/Financial%20Analyst-%2300BFFF?style=for-the-badge) 
+- [Microsoft HR Manager Professional Certificate](https://coursera.org/share/f8e1ebfdba8887352e5885f7044b2f5d) — Microsoft
+- [Associate Professional in Human Resources–International Certificate](https://www.coursera.org/account/accomplishments/specialization/76NHGYOWJ4XW) — HRCI
+- [Human Resources Analytics](https://www.coursera.org/account/accomplishments/records/208OUQM5AHLJ) — University of California, Irvine
+- [People Analytics](https://coursera.org/share/c5df1fc58e95ad9aa1d793efa47b0113) — Microsoft
+- [Strategic Workforce Planning Specialization](https://www.coursera.org/account/accomplishments/specialization/DNBNM2BGX30P) — Microsoft
+- [Generative AI for Human Resources (HR) Professionals Specialization](https://www.coursera.org/account/accomplishments/specialization/4HXT1CGKA6SA) — IBM
+- [Workday Human Capital Management for Business Users](https://www.coursera.org/account/accomplishments/records/HJOC95JO8ACU) — Workday
+- [Global Human Resource Management](https://www.coursera.org/account/accomplishments/records/REQNLBEDT2FB) — Pearson
+
+### ⚙️ HR Technology, SAP & Oracle HCM
+[![Oracle HCM](https://img.shields.io/badge/Oracle-HCM-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A9302BF7D980616F9AAB7785BAC5B87688A79760B6348580272532909187331) [![SAP HCM](https://img.shields.io/badge/SAP-HCM-0FA6E9?style=for-the-badge&logo=sap&logoColor=white)](https://www.linkedin.com/learning/certificates/a27f2c588adc81f84def30146bfbd8bdaeb358386baefd04ef3c34e0ff48b5a1) [![Workday](https://img.shields.io/badge/Workday-HCM-0875E1?style=for-the-badge&logo=workday&logoColor=white)](https://www.coursera.org/account/accomplishments/records/HJOC95JO8ACU)
+![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
+![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
+![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap)
+
+- [Oracle Fusion Cloud Applications HCM Process Essentials Certified](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A9302BF7D980616F9AAB7785BAC5B87688A79760B6348580272532909187331) — Oracle
+- [SAP SuccessFactors Performance and Goals Management](https://www.linkedin.com/learning/certificates/1000cccce406502231c30351d27208d3dd17d051fc16f42bc2c7188d684e8e3d) — LinkedIn Learning
+- [Learning SAP Human Capital Management](https://www.linkedin.com/learning/certificates/a27f2c588adc81f84def30146bfbd8bdaeb358386baefd04ef3c34e0ff48b5a1) — LinkedIn Learning
+- [Introduction to Oracle Cloud Essentials](https://www.linkedin.com/learning/certificates/5031f42308f3bfcf794a18e251ac709e7082f961654a79777da8086254486a30) — LinkedIn Learning
+
+  
+### 📊 Business Intelligence & Data Analytics
+[![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/KGQPNJETBGBN) [![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://coursera.org/share/6c8c3e55e7ed235848bf7e28794ec047) [![Data Analytics](https://img.shields.io/badge/Data-Analytics-4472C4?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69009a1d17a27298b4b7eada_1761718933059_completion_certificate.pdf)
 ![Deloitte Job Simulation](https://img.shields.io/badge/Deloitte%20Analytics-%230077B5?style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
 ![Excel Analytics](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel)  
 
+- [Microsoft Excel Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/KGQPNJETBGBN) — Microsoft
+- [Power BI Data Analyst Associate (PL-300) Cert Prep](https://www.linkedin.com/learning/certificates/ce23d124162bfdd2acaa975bd7114455360db5fc2cf1b4dbdf576999c62c68d6) — LinkedIn Learning
+- [Microsoft Power BI: Data Analysis Professional Specialization](https://coursera.org/share/6c8c3e55e7ed235848bf7e28794ec047) — Logical Operations
+- [Data Science and Analytics](https://www.life-global.org/certificate/1caf93db-86af-41ea-94b1-b5c70a1b49dd) — HP LIFE
+- [Exploratory Data Analysis with Python & GenAI](https://courses.analyticsvidhya.com/certificates/jgp3glijh3) — Analytics Vidhya
+- [Data Visualisation – Empowering Business with Effective Insights](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_69009a1d17a27298b4b7eada_1764419069792_completion_certificate.pdf) — Tata Group
+- [Deloitte Australia – Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69009a1d17a27298b4b7eada_1761718933059_completion_certificate.pdf) — Deloitte
+- [PwC US – Technology Consulting Job Simulation](https://www.theforage.com/completion-certificates/CA4pBqsy4b4PdyaBP/CnMjmmEz4NuAswiMt_CA4pBqsy4b4PdyaBP_69009a1d17a27298b4b7eada_1764681652175_completion_certificate.pdf) — PwC US / Forage
+  
+### 🤖 Generative AI & Emerging Technologies
+[![Generative AI](https://img.shields.io/badge/Generative-AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](https://coursera.org/share/845b7329c4ab62fe1e6263026d8fad6b) [![OpenAI](https://img.shields.io/badge/AI-Foundations-412991?style=for-the-badge&logo=openai&logoColor=white)](https://academy.openai.com/public/certificate/te42noywwn) [![Google AI](https://img.shields.io/badge/Google-Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22/badges/19658672) 
+![Copilot in Excel](https://img.shields.io/badge/Microsoft%20Copilot-%230072C6?style=for-the-badge&logo=microsoft) 
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%235A31F4?style=for-the-badge) 
 
-| Certification | Issued By | Key Skills / Focus Areas |
-|---------------|------------|---------------------------|
-| SAP ERP Essential Training | LinkedIn | ERP Systems, SAP FI/CO/MM/SD, Business Process Optimization |
-| SAP SuccessFactors: Performance & Goals Mgmt | LinkedIn | SAP SuccessFactors, Performance Management, Goal Alignment |
-| SAP Human Capital Management (HCM) | LinkedIn | SAP HCM, Payroll & Time Mgmt, Recruitment, Analytics & Reporting |
-| Oracle Fusion Cloud HCM Process Essentials – Rel 1 | Oracle | Oracle HCM Cloud, Cloud Transformation, Workforce Automation |
-| Copilot in Excel: AI-Powered Financial Planning & Analysis | LinkedIn | Artificial Intelligence (AI), Microsoft Copilot, Financial Analysis, Excel Dashboards |
-| Tata – GenAI Powered Data Analytics Job Simulation | Forage | Data Analytics, HR Analytics, AI-Driven Decision Making |
-| Generative AI, Recruiting, and Talent Acquisition | LinkedIn | Artificial Intelligence (AI), Generative AI for Recruiting, ATS, Ethical AI |
-| HR Analytics | upGrad | Data-Driven Decision Making, HR Metrics, Workforce Analytics |
-| Financial Analyst Virtual Experience | New York Jobs CEO Council | Financial Modelling, Data Analysis, Business Decision-Making, Excel Metrics |
-| Tata Data Visualisation | TATA Group | Dashboard Development, Data Analysis, Power BI, Tableau |
-| Bloomberg Client Engagement Job Simulation | Bloomberg | Client Handling, Client engagement, Business Decision-Making |
-| Deloitte Australia – Data Analytics Job Simulation | Deloitte Australia | Tableau, Excel Analytics, Forensic Data Techniques |
+- [Generative AI Leader Professional Certificate](https://coursera.org/share/845b7329c4ab62fe1e6263026d8fad6b) — Google Cloud Skills Boost
+- [AI Foundations](https://academy.openai.com/public/certificate/te42noywwn) — OpenAI
+- [Introduction to Generative AI](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22/badges/19658672) — Google
+- [Machine Learning Operations (MLOps) for Generative AI](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22/badges/19659307) — Google
 
+### 💼 Business & Client Engagement
+[![Third Bridge](https://img.shields.io/badge/Third%20Bridge-Client%20Service-1D3557?style=for-the-badge)](https://www.theforage.com/completion-certificates/3HY7euLNHJL494MHd/xzwFBbxXQCacYTL6g_3HY7euLNHJL494MHd_69009a1d17a27298b4b7eada_1788107030760_completion_certificate.pdf) [![Bloomberg](https://img.shields.io/badge/Bloomberg-Client%20Engagement-000000?style=for-the-badge&logo=bloomberg&logoColor=white)](https://www.theforage.com/completion-certificates/pNeDZ9MsW9WShojQm/cezQYMNq3M3y8pDHw_pNeDZ9MsW9WShojQm_69009a1d17a27298b4b7eada_1763038860523_completion_certificate.pdf) [![Oliver Wyman](https://img.shields.io/badge/Oliver%20Wyman-Consulting-005A9C?style=for-the-badge)](https://www.theforage.com/completion-certificates/fY3bMbfYA6To3yPgX/rNLFMRmBY3Wm6sDLe_fY3bMbfYA6To3yPgX_69009a1d17a27298b4b7eada_1788087375728_completion_certificate.pdf)
+- [Client Service Delivery Job Simulation](https://www.theforage.com/completion-certificates/3HY7euLNHJL494MHd/xzwFBbxXQCacYTL6g_3HY7euLNHJL494MHd_69009a1d17a27298b4b7eada_1788107030760_completion_certificate.pdf) — Third Bridge / Forage
+- [Bloomberg – Client Engagement Job Simulation](https://www.theforage.com/completion-certificates/pNeDZ9MsW9WShojQm/cezQYMNq3M3y8pDHw_pNeDZ9MsW9WShojQm_69009a1d17a27298b4b7eada_1763038860523_completion_certificate.pdf) — Bloomberg / Forage
+- [Oliver Wyman – Integrated Consulting Group Job Simulation](https://www.theforage.com/completion-certificates/fY3bMbfYA6To3yPgX/rNLFMRmBY3Wm6sDLe_fY3bMbfYA6To3yPgX_69009a1d17a27298b4b7eada_1788087375728_completion_certificate.pdf) — Oliver Wyman / Forage
 
-## 🏆 Google Cloud Skills Boost
+**Note:** This section highlights selected credentials from my broader professional learning portfolio. Credential titles and links are provided for reference.
 
-[![Google Skills Profile](https://img.shields.io/badge/Google%20Skills-Profile-blueviolet?logo=googlecloud&logoColor=white&style=for-the-badge)](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22)
+---
 
+### 🏅 Professional Badges & Credentials
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/jyotirmayamohanty-7574/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22) [![Credly](https://img.shields.io/badge/Credly-Digital_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jyotirmaya-mohanty.99567b21/badges/credly)
+
+- [Microsoft Learn Profile & Badges](https://learn.microsoft.com/en-us/users/jyotirmayamohanty-7574/) — Microsoft Learn
+- [Google Cloud Skills Boost – Profile & Skill Badges](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22) — Google
+- [Credly Digital Badges](https://www.credly.com/users/jyotirmaya-mohanty.99567b21/badges/credly) — Credly
 <details>
 <summary>🌟 Key Badges (99+ Earned)</summary>
 
@@ -168,30 +200,22 @@ Business analytics presentation projects combining data processing, visualizatio
 [View Full Profile & All Badges](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22)
 </details>
 
-
-
+---
 
 ## 🏅 Awards & Achievements
 
-
- | Award / Recognition | Year | Description |
-|----------------------|------|--------------|
-| **Great People Manager Award** | 2024 | Recognized for exceptional leadership and for fostering a high-performance culture built on collaboration, engagement, and employee trust. |
-| **HR Excellence Award** | 2023 | Honored for driving strategic HR transformation through data-driven analytics that enhanced retention, satisfaction, and workforce planning. |
-| **HR Standout Performer Award** | 2019 | Acknowledged for outstanding results in HR operations, talent acquisition, and innovative employee engagement initiatives. |
-| **Mentoring Champion** | 2018 | Recognized for exceptional mentorship, career guidance, and leadership support during key organizational transitions. |
-| **Certificate of Appreciation** | 2018 | Awarded for exemplary contributions in HR engagement, grievance management, and maintaining a positive workplace culture. |
+[![Great People Manager Award](https://img.shields.io/badge/2024-Great%20People%20Manager%20Award-gold?style=for-the-badge&logo=apachespark&logoColor=white)](#awards--achievements) [![HR Excellence Award](https://img.shields.io/badge/2023-HR%20Excellence%20Award-0A66C2?style=for-the-badge&logo=starship&logoColor=white)](#awards--achievements) [![HR Standout Performer Award](https://img.shields.io/badge/2019-HR%20Standout%20Performer-2E8B57?style=for-the-badge&logo=target&logoColor=white)](#awards--achievements) [![Mentoring Champion](https://img.shields.io/badge/2018-Mentoring%20Champion-8A2BE2?style=for-the-badge&logo=handshake&logoColor=white)](#awards--achievements) [![Certificate of Appreciation](https://img.shields.io/badge/2018-Certificate%20of%20Appreciation-B7472A?style=for-the-badge&logo=award&logoColor=white)](#awards--achievements)
 
 
-## 📈On Going Projects
+| **Award / Recognition** | **Year** | **Description** |
+|---|:---:|---|
+| 🏆 **Great People Manager Award** | 2024 | Recognized for exceptional leadership and fostering a high-performance culture built on collaboration, engagement, and employee trust. |
+| 🌟 **HR Excellence Award** | 2023 | Honored for driving strategic HR transformation through data-driven analytics that enhanced retention, satisfaction, and workforce planning. |
+| 🚀 **HR Standout Performer Award** | 2019 | Acknowledged for outstanding results in HR operations, talent acquisition, and innovative employee engagement initiatives. |
+| 🤝 **Mentoring Champion** | 2018 | Recognized for exceptional mentorship, career guidance, and leadership support during key organizational transitions. |
+| 🎖️ **Certificate of Appreciation** | 2018 | Awarded for exemplary contributions in HR engagement, grievance management, and maintaining a positive workplace culture. |
 
-| Project / Learning Area                | Description                                                                                                                |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **📊 HR Dashboard in Power BI**        | Designed an interactive dashboard visualizing recruitment, attrition, and performance insights for strategic HR decisions. |
-| **🧩 Employee Engagement Analysis**    | Conducted deep-dive analysis to identify engagement drivers and retention patterns.                                        |
-| **📘 Ongoing Learning**                | Continuously enhancing storytelling with HR data, visualization, and analytics-driven HR transformation.                   |
-| **🤖 Generative AI for HR Automation** | Exploring AI tools and MLOps to integrate predictive analytics and automate HR workflows.                               
-
+---
 
 ## 🐍 GitHub Contribution Snake
 

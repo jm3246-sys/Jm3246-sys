@@ -24,13 +24,12 @@ Welcome to my GitHub profile!
 
 ## 🧭 About Me
 
-I’m an HR professional with over **10 years of experience** across **IT, BPO, Staffing, FMCG, Manufacturing, and Export-Import** industries. 
-I combine **strategic HR leadership** with a passion for **data analytics, automation, and AI-driven transformation** — helping organizations make smarter, people-centered decisions.  
-
-I’m passionate about using data and technology to optimize HR operations, enhance employee engagement, and drive organizational performance.
-With hands-on experience in **HR Technology Implementation (SAP, Oracle Fusion, SuccessFactors)** and **Workforce Analytics**, I focus on aligning business outcomes with employee success.  
-
-My goal is to combine technology, analytics, and human capital to build high-performing, people-first organizations. Whether it’s optimizing HR processes or visualizing data trends, I aim to bridge the gap between HR strategy and data intelligence. Over the years, I’ve developed a deep interest in HR Analytics and Power BI, leveraging data to uncover actionable insights that empower organizations to make smarter workforce decisions. 
+I am an HR professional with 10+ years of experience across IT, BPO, Staffing, FMCG, Manufacturing, and Export-Import industries. I combine strategic HR leadership with HR technology, workforce analytics, and AI-driven innovation to improve people processes and support data-informed business decisions.
+- 📊 People Analytics: Power BI, Advanced Excel, Tableau, HR metrics, and workforce reporting
+- ⚙️ HR Technology: SAP HCM, SAP SuccessFactors, and Oracle Fusion HCM
+- 👥 Core HR: Talent Acquisition, HR Business Partnering, Employee Engagement, Workforce Planning, and Performance Management
+- 🤖 AI & Automation: Generative AI, Microsoft Copilot, and Google Cloud / Vertex AI learning
+- 🎯 Professional Focus: Connecting HR strategy, technology, and analytics to business outcomes
 
 
 > “Human potential meets data intelligence — that’s the future of work I strive to build.”

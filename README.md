@@ -18,8 +18,6 @@ I am an HR professional with 10+ years of experience across IT, International BP
 
 
 ---
-
----
 ## 💻 Software & Technical Skills
 
 ![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap) 
@@ -54,6 +52,9 @@ I am an HR professional with 10+ years of experience across IT, International BP
 | 👥 **Core HR Expertise** | Talent Acquisition, HR Business Partnering, Employee Engagement, Workforce Planning, Performance Management |
 | 💻 **Collaboration & Productivity** | Microsoft Teams, SharePoint, Google Workspace |
 | 🎯 **Recruitment Platforms** | Zoho Recruit, Workday |
+</a>
+
+<br>
 
 
 ## 📊 Featured Projects
@@ -69,7 +70,23 @@ Interactive HR analytics project focused on employee attrition, workforce demogr
 **[🔗 View Repository](https://github.com/jm3246-sys/HR-Analytics-PowerBI)**
 
 ---
+### 📈 Power BI Sales Dashboard Portfolio
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-Sales%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
+[![Sales Analytics](https://img.shields.io/badge/Domain-Sales%20Analytics-0A66C2?style=for-the-badge)](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Multiple%20Dashboards-2E8B57?style=for-the-badge)](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
+
+A collection of 3–4 Power BI sales dashboards designed to analyze business performance, track sales trends, and present insights through interactive visualizations.
+
+- 📊 **Business Insights:** Sales performance, revenue trends, and key performance indicators.
+- 📈 **Data Visualization:** Interactive charts, KPI cards, and dashboard reporting.
+- 💼 **Business Applications:** Supports sales monitoring and data-driven decision-making.
+
+**Tools & Technologies:** Microsoft Power BI · Business Intelligence · Sales Analytics · Data Visualization
+
+🔗 **[Explore the Sales Dashboard Portfolio](https://github.com/jm3246-sys/POWERBI-DASHBOARD)**
+
+---
 ### 📈 Tableau Business Intelligence Dashboards
 [![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)
 [![Dashboards](https://img.shields.io/badge/Projects-4%20Dashboards-2E8B57?style=for-the-badge)](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)
@@ -82,9 +99,11 @@ A collection of four dashboards exploring CRM, retail, media sales, and e-commer
 
 ---
 
-### 💼 Data Analytics Consulting Projects
-[![Analytics](https://img.shields.io/badge/Business-Data%20Analytics-6A5ACD?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
-[![AI](https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
+### 💼 Data Analytics Consulting PPT Projects
+[![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-Presentations-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
+[![Data Analytics](https://img.shields.io/badge/Business-Data%20Analytics-4472C4?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
+[![Data Visualization](https://img.shields.io/badge/Data-Visualization-2E8B57?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
+[![AI Insights](https://img.shields.io/badge/AI-Analytics%20Insights-6A5ACD?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
 
 Business analytics presentation projects combining data processing, visualization, AI-generated imagery, and machine-learning insights.
 
@@ -92,6 +111,8 @@ Business analytics presentation projects combining data processing, visualizatio
 
 **[🔗 View Repository](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)**
 
+
+</a>
 
 ## 🏆 Certifications Overview  
 
@@ -170,31 +191,7 @@ Business analytics presentation projects combining data processing, visualizatio
 | **📊 HR Dashboard in Power BI**        | Designed an interactive dashboard visualizing recruitment, attrition, and performance insights for strategic HR decisions. |
 | **🧩 Employee Engagement Analysis**    | Conducted deep-dive analysis to identify engagement drivers and retention patterns.                                        |
 | **📘 Ongoing Learning**                | Continuously enhancing storytelling with HR data, visualization, and analytics-driven HR transformation.                   |
-| **🤖 Generative AI for HR Automation** | Exploring AI tools and MLOps to integrate predictive analytics and automate HR workflows.                                  |
-
-
-**HR Analytics Dashboard – Power BI**  
-- 🔗 **Project Repo:** https://github.com/jm3246-sys/POWERBI-DASHBOARD
-- 📊 Power BI Dashboard Collection
-- 🔗 [View All Dashboards](https://github.com/jm3246-sys?tab=repositories)
-  
-
-A suite of interactive dashboards analyzing HR, Sales, and Business Performance metrics, transforming raw data into actionable insights for smarter decision-making, improved retention, and optimized team performance.
-
-Key Highlights:
-
-🔸 HR Analytics: Recruitment funnel, attrition, workforce demographics, and performance trends.
-
-🔸 Sales & E-commerce: Revenue trends, customer behavior, and product-level insights.
-
-🔸 Data Storytelling: Executive-ready visuals with filters, slicers, and KPIs.
-
-**Tech Stack & Skills:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 
-![DAX](https://img.shields.io/badge/DAX-%230077B5?style=for-the-badge) 
-![Power Query](https://img.shields.io/badge/Power%20Query-%230072C6?style=for-the-badge) 
-![Excel](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
-![SQL](https://img.shields.io/badge/SQL-%230077B5?style=for-the-badge)
+| **🤖 Generative AI for HR Automation** | Exploring AI tools and MLOps to integrate predictive analytics and automate HR workflows.                               
 
 
 ## 🐍 GitHub Contribution Snake

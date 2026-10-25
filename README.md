@@ -3,27 +3,10 @@
 🎯 **Strategic HR Professional | HR Technology | People Analytics | Generative AI**
 > *Empowering HR with data, insights, and innovation*  
 
----
-
-## 🚀 Key Skills & Achievements
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Advanced-blue?style=for-the-badge&logo=power-bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?style=for-the-badge&logo=tableau&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-Advanced-lightgrey?style=for-the-badge)
-
----
-
-Welcome to my GitHub profile!  
-
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-  
-
 
 ## 🧭 About Me
 
-I am an HR professional with 10+ years of experience across IT, BPO, Staffing, FMCG, Manufacturing, and Export-Import industries. I combine strategic HR leadership with HR technology, workforce analytics, and AI-driven innovation to improve people processes and support data-informed business decisions.
+I am an HR professional with 10+ years of experience across IT, International BPO, Staffing, FMCG, Manufacturing, and Global Export-Import industries. I combine strategic HR leadership with HR technology, workforce analytics, and AI-driven innovation to improve people processes and support data-informed business decisions.
 - 📊 People Analytics: Power BI, Advanced Excel, Tableau, HR metrics, and workforce reporting
 - ⚙️ HR Technology: SAP HCM, SAP SuccessFactors, and Oracle Fusion HCM
 - 👥 Core HR: Talent Acquisition, HR Business Partnering, Employee Engagement, Workforce Planning, and Performance Management
@@ -213,6 +196,11 @@ Key Highlights:
 ![Excel](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
 ![SQL](https://img.shields.io/badge/SQL-%230077B5?style=for-the-badge)
 
+
+## 🐍 GitHub Contribution Snake
+
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+  
 
 
 ## 📫 Let’s Connect

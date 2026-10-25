@@ -2,7 +2,7 @@
 > *Empowering HR with data, insights, and innovation.*  
 
 
-🎯 **A Certified Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
+🎯 **A Strategic Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
 
 ---
 

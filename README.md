@@ -19,7 +19,8 @@ I am an HR professional with 10+ years of experience across IT, International BP
 
 ---
 ## 💻 Software & Technical Skills
- 
+
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![People Analytics](https://img.shields.io/badge/People-Analytics-0A66C2?style=for-the-badge) ![SAP HCM](https://img.shields.io/badge/SAP-HCM-0FA6E9?style=for-the-badge&logo=sap&logoColor=white) ![Oracle Fusion HCM](https://img.shields.io/badge/Oracle-Fusion_HCM-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative-AI-8A2BE2?style=for-the-badge) ![Microsoft Copilot](https://img.shields.io/badge/Microsoft-Copilot-0078D4?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
 
 | Category | Skills & Platforms |
 |---|---|

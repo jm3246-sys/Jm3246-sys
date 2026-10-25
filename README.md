@@ -19,7 +19,7 @@ I am an HR professional with 10+ years of experience across IT, International BP
 
 ---
 ## 💻 Software & Technical Skills
-
+![HR Analytics upGrad](https://img.shields.io/badge/HR%20Analytics-%230077B5?style=for-the-badge) 
 ![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap) 
 ![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
 ![Oracle Fusion HCM](https://img.shields.io/badge/Oracle%20Fusion%20HCM-%23F80000?style=for-the-badge&logo=oracle) 
@@ -37,7 +37,6 @@ I am an HR professional with 10+ years of experience across IT, International BP
 ![HRIS](https://img.shields.io/badge/HRIS-%23FF69B4?style=for-the-badge) 
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 
-![SharePoint](https://img.shields.io/badge/SharePoint-%230076B7?style=for-the-badge&logo=sharepoint) 
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%23F4B400?style=for-the-badge&logo=google) 
 ![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-%23FF8000?style=for-the-badge&logo=zoho) 
 ![Workday](https://img.shields.io/badge/Workday-%230099CC?style=for-the-badge&logo=workday)  

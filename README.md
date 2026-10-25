@@ -1,8 +1,7 @@
-## Hi, I'm **Jyotirmaya Mohanty**
-> *Empowering HR with data, insights, and innovation.*  
+## Hi, I'm **Jyotirmaya Mohanty** 👋
 
-
-🎯 **A Strategic Human Resources Professional | HR Tech & Analytics Specialist | Generative AI Enthusiast**
+🎯 **Strategic HR Professional | HR Technology | People Analytics | Generative AI**
+> *Empowering HR with data, insights, and innovation*  
 
 ---
 
@@ -38,7 +37,7 @@ I am an HR professional with 10+ years of experience across IT, BPO, Staffing, F
 ---
 
 ---
-### 💻 Software & Technical Skills
+## 💻 Software & Technical Skills
 
 ![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap) 
 ![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
@@ -62,10 +61,6 @@ I am an HR professional with 10+ years of experience across IT, BPO, Staffing, F
 ![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-%23FF8000?style=for-the-badge&logo=zoho) 
 ![Workday](https://img.shields.io/badge/Workday-%230099CC?style=for-the-badge&logo=workday)  
 
-
-
-## 🚀 Technical Skills
-
 | Category | Skills & Platforms |
 |---|---|
 | 📊 **Business Intelligence** | Power BI, Tableau, Advanced Excel, Interactive Dashboards |
@@ -77,6 +72,42 @@ I am an HR professional with 10+ years of experience across IT, BPO, Staffing, F
 | 💻 **Collaboration & Productivity** | Microsoft Teams, SharePoint, Google Workspace |
 | 🎯 **Recruitment Platforms** | Zoho Recruit, Workday |
 
+
+## 📊 Featured Projects
+
+### 🧑‍💼 HR Analytics Dashboard — Power BI
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/jm3246-sys/HR-Analytics-PowerBI)
+[![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-0A66C2?style=for-the-badge)](https://github.com/jm3246-sys/HR-Analytics-PowerBI)
+
+Interactive HR analytics project focused on employee attrition, workforce demographics, and retention insights.
+
+**Tools:** Power BI · HR Analytics · Data Visualization
+
+**[🔗 View Repository](https://github.com/jm3246-sys/HR-Analytics-PowerBI)**
+
+---
+
+### 📈 Tableau Business Intelligence Dashboards
+[![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)
+[![Dashboards](https://img.shields.io/badge/Projects-4%20Dashboards-2E8B57?style=for-the-badge)](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)
+
+A collection of four dashboards exploring CRM, retail, media sales, and e-commerce business performance.
+
+**Tools:** Tableau · Business Intelligence · Dashboard Design
+
+**[🔗 View Repository](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)**
+
+---
+
+### 💼 Data Analytics Consulting Projects
+[![Analytics](https://img.shields.io/badge/Business-Data%20Analytics-6A5ACD?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
+[![AI](https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=for-the-badge)](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)
+
+Business analytics presentation projects combining data processing, visualization, AI-generated imagery, and machine-learning insights.
+
+**Focus:** Data Storytelling · Business Insights · Professional Presentations
+
+**[🔗 View Repository](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)**
 
 
 ## 🏆 Certifications Overview  

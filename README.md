@@ -47,11 +47,9 @@ I am an HR professional with 10+ years of experience across IT, BPO, Staffing, F
 ![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
 ![Forage](https://img.shields.io/badge/Forage-%23FF6F61?style=for-the-badge) 
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-%230072C6?style=for-the-badge&logo=microsoft) 
-![Google Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-%23F4B400?style=for-the-badge&logo=googlecloud) 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%235A31F4?style=for-the-badge) 
 ![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000?style=for-the-badge&logo=oracle) 
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%2300BFFF?style=for-the-badge) 
 ![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-%23FF4500?style=for-the-badge) 
 ![HR Metrics Dashboards](https://img.shields.io/badge/HR%20Metrics-%239966FF?style=for-the-badge) 
 ![HRMS](https://img.shields.io/badge/HRMS-%230072C6?style=for-the-badge) 
@@ -59,7 +57,6 @@ I am an HR professional with 10+ years of experience across IT, BPO, Staffing, F
 ![HRIS](https://img.shields.io/badge/HRIS-%23FF69B4?style=for-the-badge) 
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 
-![MS Teams](https://img.shields.io/badge/MS%20Teams-%236161FF?style=for-the-badge&logo=microsoft-teams) 
 ![SharePoint](https://img.shields.io/badge/SharePoint-%230076B7?style=for-the-badge&logo=sharepoint) 
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%23F4B400?style=for-the-badge&logo=google) 
 ![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-%23FF8000?style=for-the-badge&logo=zoho) 
@@ -67,30 +64,19 @@ I am an HR professional with 10+ years of experience across IT, BPO, Staffing, F
 
 
 
-| Category | Tools / Platforms |
-|-----------|------------------|
-| **HR Software** | SAP HCM, SAP SuccessFactors, Oracle Fusion HCM |
-| **Analytics Tools** | Excel Dashboards, Tableau, Forage Simulations |
-| **AI & Automation** | Microsoft Copilot, Google Vertex AI, Generative AI for HR |
-| **ERP Systems** | SAP ERP , Oracle Cloud |
-| **Data Skills** | Data Visualization, Predictive Analytics, HR Metrics Dashboards |
-| **HR Systems** | HRMS, ERP, HRIS |
-| **Analytics** | Advance Excel, Power BI |
-| **Collaboration** | MS Teams, SharePoint, Google Workspace |
-| **ATS Platforms** | Zoho Recruit, Workday 
+## 🚀 Technical Skills
 
-## 💼 Core Skill
+| Category | Skills & Platforms |
+|---|---|
+| 📊 **Business Intelligence** | Power BI, Tableau, Advanced Excel, Interactive Dashboards |
+| 📈 **People & Data Analytics** | HR Analytics, Workforce Analytics, HR Metrics, Data Visualization, Attrition Analysis |
+| 🧑‍💼 **HR Technology & HCM** | SAP HCM, SAP SuccessFactors, Oracle Fusion Cloud HCM |
+| 🤖 **AI & Automation** | Generative AI, Microsoft Copilot, Google Cloud Vertex AI, AI-Powered HR Solutions |
+| 🏢 **HR Systems & ERP** | HRMS, HRIS, SAP ERP, Oracle Cloud |
+| 👥 **Core HR Expertise** | Talent Acquisition, HR Business Partnering, Employee Engagement, Workforce Planning, Performance Management |
+| 💻 **Collaboration & Productivity** | Microsoft Teams, SharePoint, Google Workspace |
+| 🎯 **Recruitment Platforms** | Zoho Recruit, Workday |
 
-- Talent Acquisition & Employer Branding  
-- HR Strategy & Business Partnering (HRBP)  
-- Employee Engagement & Retention  
-- Workforce Planning & HR Analytics  
-- Performance Management & Total Rewards  
-- Learning & Development Programs  
-- Change Management & Organizational Development  
-- Generative AI Applications in HR
-- Compensation & Benefits Design
-- HR Compliance & Policy Administration
 
 
 ## 🏆 Certifications Overview  

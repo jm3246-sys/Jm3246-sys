@@ -197,12 +197,16 @@ Key Highlights:
 ![SQL](https://img.shields.io/badge/SQL-%230077B5?style=for-the-badge)
 
 
+
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jyotirmaya-mohanty-0b636aa0)  
-- 📧 [jm3246@gmail.com)  
-- 🌐 [Portfolio / Resume Website ](https://jyotirmaya-mohanty-041upf4.gamma.site/)
-- 📸 [Instagram – @jstar.123](https://www.instagram.com/jstar.123?utm_source=qr&igsh=N2JpYWYwOWc4bHd2)
-- 💼 [https://stackoverflow.com/users/31757460/user31757460?tab=profile](https://stackoverflow.com/users/31790997/jyotirmaya-mohanty?tab=profile)
+I'm interested in HR analytics, HR technology, workforce reporting, and data-driven HR transformation.
 
+📧 Email: jm3246@gmail.com
+
+🌐 GitHub: github.com/jm3246-sys
+
+<p align="center">
+  <i>Turning people data into meaningful insights and better business decisions.</i>
+</p>
 

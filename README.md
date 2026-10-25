@@ -19,27 +19,7 @@ I am an HR professional with 10+ years of experience across IT, International BP
 
 ---
 ## 💻 Software & Technical Skills
-![HR Analytics upGrad](https://img.shields.io/badge/HR%20Analytics-%230077B5?style=for-the-badge) 
-![SAP HCM](https://img.shields.io/badge/SAP%20HCM-%23007A33?style=for-the-badge&logo=sap) 
-![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-%23007A33?style=for-the-badge&logo=sap) 
-![Oracle Fusion HCM](https://img.shields.io/badge/Oracle%20Fusion%20HCM-%23F80000?style=for-the-badge&logo=oracle) 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
-![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
-![Forage](https://img.shields.io/badge/Forage-%23FF6F61?style=for-the-badge) 
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-%230072C6?style=for-the-badge&logo=microsoft) 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-%235A31F4?style=for-the-badge) 
-![SAP ERP](https://img.shields.io/badge/SAP%20ERP-%23007A33?style=for-the-badge&logo=sap) 
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000?style=for-the-badge&logo=oracle) 
-![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-%23FF4500?style=for-the-badge) 
-![HR Metrics Dashboards](https://img.shields.io/badge/HR%20Metrics-%239966FF?style=for-the-badge) 
-![HRMS](https://img.shields.io/badge/HRMS-%230072C6?style=for-the-badge) 
-![ERP](https://img.shields.io/badge/ERP-%23007A33?style=for-the-badge) 
-![HRIS](https://img.shields.io/badge/HRIS-%23FF69B4?style=for-the-badge) 
-![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-%230077B5?style=for-the-badge&logo=microsoft-excel) 
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi) 
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%23F4B400?style=for-the-badge&logo=google) 
-![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-%23FF8000?style=for-the-badge&logo=zoho) 
-![Workday](https://img.shields.io/badge/Workday-%230099CC?style=for-the-badge&logo=workday)  
+ 
 
 | Category | Skills & Platforms |
 |---|---|
@@ -51,7 +31,7 @@ I am an HR professional with 10+ years of experience across IT, International BP
 | 👥 **Core HR Expertise** | Talent Acquisition, HR Business Partnering, Employee Engagement, Workforce Planning, Performance Management |
 | 💻 **Collaboration & Productivity** | Microsoft Teams, SharePoint, Google Workspace |
 | 🎯 **Recruitment Platforms** | Zoho Recruit, Workday |
-</a>
+
 
 <br>
 
@@ -227,15 +207,7 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jyotirmayamohanty.lovable.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmaya-mohanty-0b636aa0/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jm3246-sys) [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jm3246@gmail.com)
 
-I'm interested in HR analytics, HR technology, workforce reporting, and data-driven HR transformation.
-
-📧 Email: jm3246@gmail.com
-
-🌐 Website: [Jyotirmaya Mohanty — Portfolio](https://jyotirmayamohanty.lovable.app)
-
-💼 LinkedIn: Jyotirmaya Mohanty
-
-🐙 GitHub: jm3246-sys
+I'm interested in HR analytics, HR technology, workforce reporting, and data-driven HR transformation. Feel free to connect or explore my work.
 
 <p align="center">
   <i>Turning people data into meaningful insights and better business decisions.</i>

@@ -225,11 +225,17 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 
 ## 📫 Let’s Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jyotirmayamohanty.lovable.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmaya-mohanty-0b636aa0/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jm3246-sys) [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jm3246@gmail.com)
+
 I'm interested in HR analytics, HR technology, workforce reporting, and data-driven HR transformation.
 
 📧 Email: jm3246@gmail.com
 
-🌐 GitHub: github.com/jm3246-sys
+🌐 Website: [Jyotirmaya Mohanty — Portfolio](https://jyotirmayamohanty.lovable.app)
+
+💼 LinkedIn: Jyotirmaya Mohanty
+
+🐙 GitHub: jm3246-sys
 
 <p align="center">
   <i>Turning people data into meaningful insights and better business decisions.</i>

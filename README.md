@@ -1,4 +1,4 @@
-## Hi, I'm **Jyotirmaya Mohanty** 👋
+# Hi, I'm **Jyotirmaya Mohanty** 👋
 
 🎯 **Strategic HR Professional | HR Technology | People Analytics | Generative AI**
 > *Empowering HR with data, insights, and innovation*  

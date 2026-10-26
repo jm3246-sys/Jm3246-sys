@@ -45,7 +45,6 @@ I am an HR professional with 10+ years of experience across IT, International BP
 
 Interactive HR analytics project focused on employee attrition, workforce demographics, and retention insights.
 
-**Tools:** Power BI · HR Analytics · Data Visualization
 
 **[🔗 View Repository](https://github.com/jm3246-sys/HR-Analytics-PowerBI)**
 
@@ -62,7 +61,6 @@ A collection of 3–4 Power BI sales dashboards designed to analyze business per
 - 📈 **Data Visualization:** Interactive charts, KPI cards, and dashboard reporting.
 - 💼 **Business Applications:** Supports sales monitoring and data-driven decision-making.
 
-**Tools & Technologies:** Microsoft Power BI · Business Intelligence · Sales Analytics · Data Visualization
 
 🔗 **[Explore the Sales Dashboard Portfolio](https://github.com/jm3246-sys/POWERBI-DASHBOARD)**
 
@@ -73,7 +71,6 @@ A collection of 3–4 Power BI sales dashboards designed to analyze business per
 
 A collection of four dashboards exploring CRM, retail, media sales, and e-commerce business performance.
 
-**Tools:** Tableau · Business Intelligence · Dashboard Design
 
 **[🔗 View Repository](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)**
 
@@ -92,7 +89,6 @@ Business analytics presentation projects combining data processing, visualizatio
 **[🔗 View Repository](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)**
 
 
-</a>
 
 ## 🏆 Certifications Overview  
 
@@ -120,7 +116,6 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 - [Oracle Fusion Cloud Applications HCM Process Essentials Certified](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A9302BF7D980616F9AAB7785BAC5B87688A79760B6348580272532909187331) — Oracle
 - [SAP SuccessFactors Performance and Goals Management](https://www.linkedin.com/learning/certificates/1000cccce406502231c30351d27208d3dd17d051fc16f42bc2c7188d684e8e3d) — LinkedIn Learning
 - [Learning SAP Human Capital Management](https://www.linkedin.com/learning/certificates/a27f2c588adc81f84def30146bfbd8bdaeb358386baefd04ef3c34e0ff48b5a1) — LinkedIn Learning
-- [Introduction to Oracle Cloud Essentials](https://www.linkedin.com/learning/certificates/5031f42308f3bfcf794a18e251ac709e7082f961654a79777da8086254486a30) — LinkedIn Learning
 
   
 ### 📊 Business Intelligence & Data Analytics
@@ -129,9 +124,7 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 ![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
 ![Excel Analytics](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel)  
 
-- [Microsoft Excel Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/KGQPNJETBGBN) — Microsoft
-- [Power BI Data Analyst Associate (PL-300) Cert Prep](https://www.linkedin.com/learning/certificates/ce23d124162bfdd2acaa975bd7114455360db5fc2cf1b4dbdf576999c62c68d6) — LinkedIn Learning
-- [Microsoft Power BI: Data Analysis Professional Specialization](https://coursera.org/share/6c8c3e55e7ed235848bf7e28794ec047) — Logical Operations
+- [Microsoft Excel Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/KGQPNJETBGBN](https://www.coursera.org/account/accomplishments/professional-cert/ZUBDMDXJXWD2)) — Microsoft
 - [Data Science and Analytics](https://www.life-global.org/certificate/1caf93db-86af-41ea-94b1-b5c70a1b49dd) — HP LIFE
 - [Exploratory Data Analysis with Python & GenAI](https://courses.analyticsvidhya.com/certificates/jgp3glijh3) — Analytics Vidhya
 - [Data Visualisation – Empowering Business with Effective Insights](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_69009a1d17a27298b4b7eada_1764419069792_completion_certificate.pdf) — Tata Group

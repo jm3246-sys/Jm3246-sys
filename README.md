@@ -44,7 +44,9 @@ I am an HR professional with 10+ years of experience across IT, International BP
 [![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-0A66C2?style=for-the-badge)](https://github.com/jm3246-sys/HR-Analytics-PowerBI)
 
 Interactive HR analytics project focused on employee attrition, workforce demographics, and retention insights.
+**Key questions**: Which employee groups show higher attrition? How is the workforce distributed across key demographic categories? What patterns can support retention discussions?
 
+**Metrics to highlight**: Attrition rate, employee count, attrition by department, workforce composition, and retention-related indicators—where available in the dashboard.
 
 **[🔗 View Repository](https://github.com/jm3246-sys/HR-Analytics-PowerBI)**
 
@@ -56,6 +58,8 @@ Interactive HR analytics project focused on employee attrition, workforce demogr
 [![Portfolio](https://img.shields.io/badge/Portfolio-Multiple%20Dashboards-2E8B57?style=for-the-badge)](https://github.com/jm3246-sys/POWERBI-DASHBOARD)
 
 A collection of 3–4 Power BI sales dashboards designed to analyze business performance, track sales trends, and present insights through interactive visualizations.
+
+**Key questions**: Which products or regions contribute most to sales? How do sales change over time? Which performance indicators need attention?
 
 - 📊 **Business Insights:** Sales performance, revenue trends, and key performance indicators.
 - 📈 **Data Visualization:** Interactive charts, KPI cards, and dashboard reporting.
@@ -71,6 +75,9 @@ A collection of 3–4 Power BI sales dashboards designed to analyze business per
 
 A collection of four dashboards exploring CRM, retail, media sales, and e-commerce business performance.
 
+**Key questions**: How does performance vary by business area? Which categories or segments contribute most to results? What patterns emerge from customer and sales data?
+
+**Metrics to highlight**: Revenue or sales by category, customer or CRM indicators, e-commerce performance, and media sales trends—depending on the dashboard.
 
 **[🔗 View Repository](https://github.com/jm3246-sys/Tableau-Business-Intelligence-Dashboards)**
 
@@ -85,6 +92,8 @@ A collection of four dashboards exploring CRM, retail, media sales, and e-commer
 Business analytics presentation projects combining data processing, visualization, AI-generated imagery, and machine-learning insights.
 
 **Focus:** Data Storytelling · Business Insights · Professional Presentations
+
+**What to explore**: Data preparation, visual storytelling, analytical findings, and the business questions addressed by each presentation.
 
 **[🔗 View Repository](https://github.com/jm3246-sys/Data-Analytics-Consulting-PPT)**
 
@@ -124,9 +133,9 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 ![Tableau](https://img.shields.io/badge/Tableau-%230E79B2?style=for-the-badge&logo=tableau) 
 ![Excel Analytics](https://img.shields.io/badge/Excel-%230077B5?style=for-the-badge&logo=microsoft-excel)  
 
-- [Microsoft Excel Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/KGQPNJETBGBN](https://www.coursera.org/account/accomplishments/professional-cert/ZUBDMDXJXWD2)) — Microsoft
+- [Microsoft Excel Professional Certificate — Microsoft](https://www.coursera.org/account/accomplishments/specialization/KGQPNJETBGBN)
+- [Microsoft Power BI Data Analyst Professional Certificate — Microsoft](https://www.coursera.org/account/accomplishments/professional-cert/ZUBDMDXJXWD2)
 - [Data Science and Analytics](https://www.life-global.org/certificate/1caf93db-86af-41ea-94b1-b5c70a1b49dd) — HP LIFE
-- [Exploratory Data Analysis with Python & GenAI](https://courses.analyticsvidhya.com/certificates/jgp3glijh3) — Analytics Vidhya
 - [Data Visualisation – Empowering Business with Effective Insights](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_69009a1d17a27298b4b7eada_1764419069792_completion_certificate.pdf) — Tata Group
 - [Deloitte Australia – Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69009a1d17a27298b4b7eada_1761718933059_completion_certificate.pdf) — Deloitte
 - [PwC US – Technology Consulting Job Simulation](https://www.theforage.com/completion-certificates/CA4pBqsy4b4PdyaBP/CnMjmmEz4NuAswiMt_CA4pBqsy4b4PdyaBP_69009a1d17a27298b4b7eada_1764681652175_completion_certificate.pdf) — PwC US / Forage
@@ -139,13 +148,13 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 - [Generative AI Leader Professional Certificate](https://coursera.org/share/845b7329c4ab62fe1e6263026d8fad6b) — Google Cloud Skills Boost
 - [AI Foundations](https://academy.openai.com/public/certificate/te42noywwn) — OpenAI
 - [Introduction to Generative AI](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22/badges/19658672) — Google
-- [Machine Learning Operations (MLOps) for Generative AI](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22/badges/19659307) — Google
+
 
 ### 💼 Business & Client Engagement
 [![Third Bridge](https://img.shields.io/badge/Third%20Bridge-Client%20Service-1D3557?style=for-the-badge)](https://www.theforage.com/completion-certificates/3HY7euLNHJL494MHd/xzwFBbxXQCacYTL6g_3HY7euLNHJL494MHd_69009a1d17a27298b4b7eada_1788107030760_completion_certificate.pdf) [![Bloomberg](https://img.shields.io/badge/Bloomberg-Client%20Engagement-000000?style=for-the-badge&logo=bloomberg&logoColor=white)](https://www.theforage.com/completion-certificates/pNeDZ9MsW9WShojQm/cezQYMNq3M3y8pDHw_pNeDZ9MsW9WShojQm_69009a1d17a27298b4b7eada_1763038860523_completion_certificate.pdf) [![Oliver Wyman](https://img.shields.io/badge/Oliver%20Wyman-Consulting-005A9C?style=for-the-badge)](https://www.theforage.com/completion-certificates/fY3bMbfYA6To3yPgX/rNLFMRmBY3Wm6sDLe_fY3bMbfYA6To3yPgX_69009a1d17a27298b4b7eada_1788087375728_completion_certificate.pdf)
 - [Client Service Delivery Job Simulation](https://www.theforage.com/completion-certificates/3HY7euLNHJL494MHd/xzwFBbxXQCacYTL6g_3HY7euLNHJL494MHd_69009a1d17a27298b4b7eada_1788107030760_completion_certificate.pdf) — Third Bridge / Forage
 - [Bloomberg – Client Engagement Job Simulation](https://www.theforage.com/completion-certificates/pNeDZ9MsW9WShojQm/cezQYMNq3M3y8pDHw_pNeDZ9MsW9WShojQm_69009a1d17a27298b4b7eada_1763038860523_completion_certificate.pdf) — Bloomberg / Forage
-- [Oliver Wyman – Integrated Consulting Group Job Simulation](https://www.theforage.com/completion-certificates/fY3bMbfYA6To3yPgX/rNLFMRmBY3Wm6sDLe_fY3bMbfYA6To3yPgX_69009a1d17a27298b4b7eada_1788087375728_completion_certificate.pdf) — Oliver Wyman / Forage
+
 
 **Note:** This section highlights selected credentials from my broader professional learning portfolio. Credential titles and links are provided for reference.
 
@@ -158,21 +167,6 @@ I continuously develop my expertise in Human Resources, People Analytics, HR Tec
 - [Microsoft Learn Profile & Badges](https://learn.microsoft.com/en-us/users/jyotirmayamohanty-7574/) — Microsoft Learn
 - [Google Cloud Skills Boost – Profile & Skill Badges](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22) — Google
 - [Credly Digital Badges](https://www.credly.com/users/jyotirmaya-mohanty.99567b21/badges/credly) — Credly
-<details>
-<summary>🌟 Key Badges (99+ Earned)</summary>
-
-**Generative AI & ML**  
-[![Intro to GenAI](https://img.shields.io/badge/Intro%20to%20GenAI-orange?style=for-the-badge&logo=googlecloud&logoColor=white)](YOUR_BADGE_URL_1)  
-[![MLOps Fundamentals](https://img.shields.io/badge/MLOps%20Fundamentals-teal?style=for-the-badge&logo=googlecloud&logoColor=white)](YOUR_BADGE_URL_2)  
-
-**Google Cloud / Vertex AI**  
-[![Vertex AI Agent Builder](https://img.shields.io/badge/Vertex%20AI-purple?style=for-the-badge&logo=googlecloud&logoColor=white)](YOUR_BADGE_URL_3)  
-
-**Workspace & Productivity**  
-[![Change Management Workspace](https://img.shields.io/badge/Change%20Mgmt%20Workspace-green?style=for-the-badge&logo=googleworkspace&logoColor=white)](YOUR_BADGE_URL_4)  
-
-[View Full Profile & All Badges](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22)
-</details>
 
 ---
 

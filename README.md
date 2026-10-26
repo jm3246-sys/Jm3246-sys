@@ -44,6 +44,7 @@ I am an HR professional with 10+ years of experience across IT, International BP
 [![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-0A66C2?style=for-the-badge)](https://github.com/jm3246-sys/HR-Analytics-PowerBI)
 
 Interactive HR analytics project focused on employee attrition, workforce demographics, and retention insights.
+
 **Key questions**: Which employee groups show higher attrition? How is the workforce distributed across key demographic categories? What patterns can support retention discussions?
 
 **Metrics to highlight**: Attrition rate, employee count, attrition by department, workforce composition, and retention-related indicators—where available in the dashboard.
